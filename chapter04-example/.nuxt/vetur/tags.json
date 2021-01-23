@@ -1,0 +1,14 @@
+{
+  "Copyright": {
+    "description": "Auto imported from components/copyright.vue"
+  },
+  "LazyCopyright": {
+    "description": "Auto imported from components/copyright.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/logo.vue"
+  }
+}

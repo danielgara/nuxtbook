@@ -1,0 +1,59 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter04-example\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_582d0f60"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter04-example\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_03a38bb3"
+  },
+  {
+    "name": "work",
+    "path": "/work",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter04-example\\\\pages\\\\work\\\\index.vue",
+    "chunkName": "pages/work/index",
+    "_name": "_5590aa98"
+  },
+  {
+    "path": "/work-nested",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter04-example\\\\pages\\\\work-nested.vue",
+    "chunkName": "pages/work-nested",
+    "children": [
+      {
+        "name": "work-nested",
+        "path": "",
+        "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter04-example\\\\pages\\\\work-nested\\\\index.vue",
+        "chunkName": "pages/work-nested/index",
+        "_name": "_178159fc"
+      },
+      {
+        "name": "work-nested-slug",
+        "path": ":slug",
+        "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter04-example\\\\pages\\\\work-nested\\\\_slug.vue",
+        "chunkName": "pages/work-nested/_slug",
+        "_name": "_15cab8b4"
+      }
+    ],
+    "_name": "_9ffa6074"
+  },
+  {
+    "name": "work-slug",
+    "path": "/work/:slug",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter04-example\\\\pages\\\\work\\\\_slug.vue",
+    "chunkName": "pages/work/_slug",
+    "_name": "_58fded28"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter04-example\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_77e4ea25"
+  }
+]
