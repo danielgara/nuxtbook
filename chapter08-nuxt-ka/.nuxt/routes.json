@@ -1,0 +1,30 @@
+[
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter08-nuxt-ka\\\\pages\\\\users\\\\index.vue",
+    "chunkName": "pages/users/index",
+    "_name": "_0d685a0d"
+  },
+  {
+    "name": "users-query",
+    "path": "/users-query",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter08-nuxt-ka\\\\pages\\\\users-query.vue",
+    "chunkName": "pages/users-query",
+    "_name": "_0f737360"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter08-nuxt-ka\\\\pages\\\\users\\\\_id.vue",
+    "chunkName": "pages/users/_id",
+    "_name": "_09210896"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter08-nuxt-ka\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_06bf12c2"
+  }
+]

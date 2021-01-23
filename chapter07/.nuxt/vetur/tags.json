@@ -1,0 +1,38 @@
+{
+  "BaseCopyright": {
+    "description": "Auto imported from components/base-copyright.vue"
+  },
+  "LazyBaseCopyright": {
+    "description": "Auto imported from components/base-copyright.vue"
+  },
+  "BaseLogo": {
+    "description": "Auto imported from components/base-logo.vue"
+  },
+  "LazyBaseLogo": {
+    "description": "Auto imported from components/base-logo.vue"
+  },
+  "BaseNav": {
+    "description": "Auto imported from components/base-nav.vue"
+  },
+  "LazyBaseNav": {
+    "description": "Auto imported from components/base-nav.vue"
+  },
+  "BaseSocial": {
+    "description": "Auto imported from components/base-social.vue"
+  },
+  "LazyBaseSocial": {
+    "description": "Auto imported from components/base-social.vue"
+  },
+  "Sample1": {
+    "description": "Auto imported from components/global/sample-1.vue"
+  },
+  "LazySample1": {
+    "description": "Auto imported from components/global/sample-1.vue"
+  },
+  "PostItem": {
+    "description": "Auto imported from components/work/post-item.vue"
+  },
+  "LazyPostItem": {
+    "description": "Auto imported from components/work/post-item.vue"
+  }
+}

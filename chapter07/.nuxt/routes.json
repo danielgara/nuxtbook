@@ -1,0 +1,59 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter07\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_9d41e174"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter07\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_4f55abce"
+  },
+  {
+    "name": "work",
+    "path": "/work",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter07\\\\pages\\\\work\\\\index.vue",
+    "chunkName": "pages/work/index",
+    "_name": "_bcf0b3cc"
+  },
+  {
+    "path": "/work-nested",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter07\\\\pages\\\\work-nested.vue",
+    "chunkName": "pages/work-nested",
+    "children": [
+      {
+        "name": "work-nested",
+        "path": "",
+        "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter07\\\\pages\\\\work-nested\\\\index.vue",
+        "chunkName": "pages/work-nested/index",
+        "_name": "_61ee4054"
+      },
+      {
+        "name": "work-nested-slug",
+        "path": ":slug",
+        "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter07\\\\pages\\\\work-nested\\\\_slug.vue",
+        "chunkName": "pages/work-nested/_slug",
+        "_name": "_655b82e4"
+      }
+    ],
+    "_name": "_7c52cb2c"
+  },
+  {
+    "name": "work-slug",
+    "path": "/work/:slug",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter07\\\\pages\\\\work\\\\_slug.vue",
+    "chunkName": "pages/work/_slug",
+    "_name": "_c05df65c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter07\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5dd22bea"
+  }
+]
