@@ -1,0 +1,44 @@
+[
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter09-koa-mongo\\\\pages\\\\users\\\\index.vue",
+    "chunkName": "pages/users/index"
+  },
+  {
+    "name": "users-query",
+    "path": "/users-query",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter09-koa-mongo\\\\pages\\\\users-query.vue",
+    "chunkName": "pages/users-query"
+  },
+  {
+    "name": "users-add",
+    "path": "/users/add",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter09-koa-mongo\\\\pages\\\\users\\\\add\\\\index.vue",
+    "chunkName": "pages/users/add/index"
+  },
+  {
+    "name": "users-delete-id",
+    "path": "/users/delete/:id?",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter09-koa-mongo\\\\pages\\\\users\\\\delete\\\\_id.vue",
+    "chunkName": "pages/users/delete/_id"
+  },
+  {
+    "name": "users-update-id",
+    "path": "/users/update/:id?",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter09-koa-mongo\\\\pages\\\\users\\\\update\\\\_id.vue",
+    "chunkName": "pages/users/update/_id"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter09-koa-mongo\\\\pages\\\\users\\\\_id.vue",
+    "chunkName": "pages/users/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\wamp642020\\\\www\\\\nuxtbook\\\\chapter09-koa-mongo\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
